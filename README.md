@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Samane
-![879](https://github.com/user-attachments/assets/f49f2430-c868-4ff2-a2e9-130932bd9d3d)
 
 ### 🌐 Front-End Developer | Web Enthusiast
 
@@ -24,4 +23,10 @@ I build responsive, accessible, and performance-focused web interfaces that brin
 - **Email:** sam1380aneh@gmail.com
 
 ---
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)](https://tailwindcss.com)
+
 
