@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Samane
-<img width="1024" height="300" class = "background-size = cover" alt="image" src="https://github.com/user-attachments/assets/80b3a33c-54bb-45a6-8f50-c98a67210252" />
+<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/cb47d0f4-5746-497f-b6e5-26bfd1d3e050" />
 
 ### 🌐 Front-End Developer | Web Enthusiast
 
