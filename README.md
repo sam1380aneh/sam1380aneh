@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Samane
-![photo_2025-11-02_13-09-27](https://github.com/user-attachments/assets/4d3c3a1d-7f3f-4ec2-af9f-85a67a105768)
+![879](https://github.com/user-attachments/assets/f49f2430-c868-4ff2-a2e9-130932bd9d3d)
 
 ### 🌐 Front-End Developer | Web Enthusiast
 
