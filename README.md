@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Samane
-<img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/cb47d0f4-5746-497f-b6e5-26bfd1d3e050" />
+![photo_2025-11-02_13-09-27](https://github.com/user-attachments/assets/4d3c3a1d-7f3f-4ec2-af9f-85a67a105768)
 
 ### 🌐 Front-End Developer | Web Enthusiast
 
