@@ -43,6 +43,4 @@ I build websites that behave better than most Wi-Fi connections.
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)](https://www.linux.org)
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/sam1380aneh/sam1380aneh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/sam1380aneh/sam1380aneh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
