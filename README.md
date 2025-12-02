@@ -11,7 +11,7 @@ a front-end designer who loves creating clean and cute web interfaces ✨💻
 - 🎯 Goal: Become a full-stack developer
 
 
-###🎨 skills
+### 🎨 skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,jquery,npm,pinia,vite,wordpress,bootstrap,bun,vue,tailwind,angular,linux,figma&theme=light" />
