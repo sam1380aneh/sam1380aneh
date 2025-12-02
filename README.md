@@ -14,7 +14,7 @@ a front-end designer who loves creating clean and cute web interfaces ✨💻
 # 🎨 skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,linux,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,jenkins,jquery,npm,pinia,vite,wordpress,bootstrap,bun,vue,tailwind,angular,linux,figma&theme=light" />
   </a>
 </p>
 
