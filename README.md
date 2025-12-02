@@ -4,7 +4,7 @@
 a front-end designer who loves creating clean, cute, and responsive web interfaces ✨💻🌷
 ---
 
-### 👨‍💻 About Me  
+# 👨‍💻 About Me  
 - 🔭 I’m working on personal projects  
 - 🌱 Currently learning BACK-END  
 - 🎯 Goal: Become a full-stack developer
