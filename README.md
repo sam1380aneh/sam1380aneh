@@ -18,6 +18,8 @@ I build websites that behave better than most Wi-Fi connections.
 | Currently Learning | Web 3D (Three.js), SEO, Linux |
 
 ---
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/samaneh=amanollahi](https://linkedin.com/in/yourname)
@@ -42,8 +44,6 @@ I build websites that behave better than most Wi-Fi connections.
 [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=fff&style=flat-square)](https://threejs.org)
 [![SEO](https://img.shields.io/badge/SEO-4285F4?logo=google&logoColor=fff&style=flat-square)](https://developers.google.com/search)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)](https://www.linux.org)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sam1380aneh&show_icons=true&theme=tokyonight)
 
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/sam1380aneh/sam1380aneh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
