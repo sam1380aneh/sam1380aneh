@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Samane
+👋 Hi, I'm Samane
 
-a front-end designer who loves creating clean, cute, and responsive web interfaces ✨💻🌷
+a front-end designer who loves creating clean and cute web interfaces ✨💻🌷
 ---
 
 # 👨‍💻 About Me  
