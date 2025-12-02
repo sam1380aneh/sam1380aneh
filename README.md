@@ -45,12 +45,3 @@ I build websites that behave better than most Wi-Fi connections.
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/sam1380aneh/sam1380aneh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/sam1380aneh/sam1380aneh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-## 💬 Quote / Status  
-> “Your favorite quote or a status here.”  
-
----
-
-## ☕ Support / Donations  
-If you like my work, you can support me:  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow)](YOUR_DONATION_LINK)  
