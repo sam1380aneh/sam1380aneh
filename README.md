@@ -14,7 +14,6 @@ Hi! I’m Sam — a front-end designer who loves creating clean, cute, and respo
 | Tools | VS Code, Figma |
 | Currently Learning | Web 3D (Three.js), SEO, Linux |
 
-<img src="https://skillicons.dev/icons?i=html,css,js,TypeScript,React,Next.js,Vue.js,Tailwind_CSS,Linux" />
 
 
 ### 📫 Let's Connect
@@ -22,6 +21,8 @@ Hi! I’m Sam — a front-end designer who loves creating clean, cute, and respo
 - Email: sam1380aneh@gmail.com
 
 ---
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,linux" />
+
 
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/sam1380aneh/sam1380aneh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
