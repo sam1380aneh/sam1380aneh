@@ -3,17 +3,7 @@
 
 Hi! I’m Sam — a front-end designer who loves creating clean, cute, and responsive web interfaces ✨💻🌷
 ---
-
-### 🛠️ Tech Stack
-| Category | Tools |
-|-----------|--------|
-| Languages | JavaScript, TypeScript, HTML5, CSS3 |
-| Frameworks / Libraries | React, Next.js, Angular, Vite, Vue.js |
-| Styling | Tailwind CSS, Sass, swiper |
-| Version Control | Git, GitHub |
-| Tools | VS Code, Figma |
-| Currently Learning | Web 3D (Three.js), SEO, Linux |
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,linux)](https://skillicons.dev)
 
 
 ### 📫 Let's Connect
