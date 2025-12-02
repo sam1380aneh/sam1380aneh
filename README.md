@@ -1,15 +1,16 @@
 
-👋 Hi, I'm Samane
+# 👋 Hi, I'm Samane
 
 a front-end designer who loves creating clean and cute web interfaces ✨💻🌷
----
+
+
 
 # 👨‍💻 About Me  
 - 🔭 I’m working on personal projects  
 - 🌱 Currently learning BACK-END  
 - 🎯 Goal: Become a full-stack developer
 
----
+--
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,7 +18,7 @@ a front-end designer who loves creating clean and cute web interfaces ✨💻�
   </a>
 </p>
 
----
+--
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/samaneh=amanollahi](https://linkedin.com/in/yourname)
