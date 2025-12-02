@@ -5,7 +5,7 @@ Hi! I’m Sam — a front-end designer who loves creating clean, cute, and respo
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,linux" />
   </a>
 </p>
 
