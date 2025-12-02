@@ -19,6 +19,7 @@ I build websites that behave better than most Wi-Fi connections.
 
 ---
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python" />
 
 
 ### 📫 Let's Connect
