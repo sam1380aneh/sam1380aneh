@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Samane
 
-a front-end designer who loves creating clean and cute web interfaces ✨💻🌷
+a front-end designer who loves creating clean and cute web interfaces ✨💻
 
 
 
@@ -10,7 +10,8 @@ a front-end designer who loves creating clean and cute web interfaces ✨💻�
 - 🌱 Currently learning BACK-END  
 - 🎯 Goal: Become a full-stack developer
 
-#
+
+# 🎨 skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,linux" />
